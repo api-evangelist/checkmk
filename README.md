@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Checkmk is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://checkmk.com/
+Checkmk provides a full‑stack monitoring and observability platform for hybrid IT environments, supporting both cloud‑native and on‑premises infrastructures. It offers self‑hosted and SaaS editions, integrates with tools like ServiceNow, Jira, and Slack, and exposes flexible APIs for data extraction and automation. The platform includes AI‑assisted root‑cause analysis, extensive dashboards, and a marketplace of plug‑ins for diverse monitoring needs.
+
+**Areas:** Monitoring · Observability · IT Infrastructure · Open Source · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://checkmk.com/)
+- [Documentation](https://checkmk.com/download)
+- [Getting started](https://checkmk.com/community/get-started)
+- [Pricing](https://checkmk.com/pricing)
+- [Support](https://checkmk.com/support)
+- [Changelog](https://checkmk.com/product/release-notes/2-5-0)
+- [Blog](https://checkmk.com/blog)
+- [Security](https://checkmk.com/responsible-disclosure-policy)
+- [Compliance](https://trust.checkmk.com/)
+- [Privacy policy](https://checkmk.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/checkmk/](https://apis.io/providers/checkmk/).
